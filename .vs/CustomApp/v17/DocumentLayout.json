@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\Aztu-Codeacademy\\CustomApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93F12778-92A0-4C74-934A-CEBE92D7BF00}|Core\\Core.csproj|d:\\coding\\aztu-codeacademy\\customapp\\core\\extensions\\helpmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F12778-92A0-4C74-934A-CEBE92D7BF00}|Core\\Core.csproj|solutionrelative:core\\extensions\\helpmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5A968D-A36D-4AE8-9168-ED97C0B45E85}|CustomApp\\CustomApp.csproj|d:\\coding\\aztu-codeacademy\\customapp\\customapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5A968D-A36D-4AE8-9168-ED97C0B45E85}|CustomApp\\CustomApp.csproj|solutionrelative:customapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F12778-92A0-4C74-934A-CEBE92D7BF00}|Core\\Core.csproj|d:\\coding\\aztu-codeacademy\\customapp\\core\\managers\\classroommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F12778-92A0-4C74-934A-CEBE92D7BF00}|Core\\Core.csproj|solutionrelative:core\\managers\\classroommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F12778-92A0-4C74-934A-CEBE92D7BF00}|Core\\Core.csproj|d:\\coding\\aztu-codeacademy\\customapp\\core\\managers\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F12778-92A0-4C74-934A-CEBE92D7BF00}|Core\\Core.csproj|solutionrelative:core\\managers\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\CustomApp\\Core\\Managers\\StudentManager.cs",
+              "RelativeDocumentMoniker": "Core\\Managers\\StudentManager.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\CustomApp\\Core\\Managers\\StudentManager.cs",
+              "RelativeToolTip": "Core\\Managers\\StudentManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T01:34:28.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassroomManager.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\CustomApp\\Core\\Managers\\ClassroomManager.cs",
+              "RelativeDocumentMoniker": "Core\\Managers\\ClassroomManager.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\CustomApp\\Core\\Managers\\ClassroomManager.cs",
+              "RelativeToolTip": "Core\\Managers\\ClassroomManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T00:03:18.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelpManager.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\CustomApp\\Core\\Extensions\\HelpManager.cs",
+              "RelativeDocumentMoniker": "Core\\Extensions\\HelpManager.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\CustomApp\\Core\\Extensions\\HelpManager.cs",
+              "RelativeToolTip": "Core\\Extensions\\HelpManager.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T00:02:06.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\CustomApp\\CustomApp\\Program.cs",
+              "RelativeDocumentMoniker": "CustomApp\\Program.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\CustomApp\\CustomApp\\Program.cs",
+              "RelativeToolTip": "CustomApp\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwGcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T23:44:27.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
